@@ -1,0 +1,8 @@
+{
+  "parent": "ancientrelics:block/orientable_column_mirrored",
+  "textures": {
+    "end": "minecraft:block/deepslate_top",
+    "side": "minecraft:block/deepslate",
+	"south": "ancientrelics:block/sapphire_ore_side"
+  }
+}

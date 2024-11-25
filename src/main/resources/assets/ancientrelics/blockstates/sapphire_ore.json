@@ -1,0 +1,352 @@
+{
+  "variants": {
+    "facing=east,axis=x": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_top",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "facing=east,axis=y": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_east"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east_mirrored"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west",
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west_mirrored",
+        "y": 180
+      }
+    ],
+    "facing=east,axis=z": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_east",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east_mirrored",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ],
+  "facing=north,axis=x": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_west",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "facing=north,axis=y": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_north"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north_mirrored"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south",
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south_mirrored",
+        "y": 180
+      }
+    ],
+    "facing=north,axis=z": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_top",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top_mirrored",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ],
+	"facing=south,axis=x": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_east",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "facing=south,axis=y": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_south"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south_mirrored"
+      },
+   	  {
+        "model": "ancientrelics:block/sapphire_ore_north",
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north_mirrored",
+        "y": 180
+      }
+    ],
+    "facing=south,axis=z": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom_mirrored",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top_mirrored",
+        "x": 90,
+        "y": 180
+      }
+	],
+    "facing=west,axis=x": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "facing=west,axis=y": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_west"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west_mirrored"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east",
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east_mirrored",
+        "y": 180
+      }
+    ],
+    "facing=west,axis=z": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_west",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_west_mirrored",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_east_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ],
+    "facing=up,axis=x": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_south",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "facing=up,axis=y": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_top"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top_mirrored"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top",
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_top_mirrored",
+        "y": 180
+      }
+    ],
+    "facing=up,axis=z": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_south",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south_mirrored",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_south_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ],
+    "facing=down,axis=x": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_north",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north_mirrored",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north",
+        "x": 90,
+        "y": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north_mirrored",
+        "x": 90,
+        "y": 90
+      }
+    ],
+    "facing=down,axis=y": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom_mirrored"
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom",
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_bottom_mirrored",
+        "y": 180
+      }
+    ],
+    "facing=down,axis=z": [
+      {
+        "model": "ancientrelics:block/sapphire_ore_north",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north_mirrored",
+        "x": 90
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north",
+        "x": 90,
+        "y": 180
+      },
+      {
+        "model": "ancientrelics:block/sapphire_ore_north_mirrored",
+        "x": 90,
+        "y": 180
+      }
+    ]
+  }
+}

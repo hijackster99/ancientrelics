@@ -1,0 +1,14 @@
+{
+  "_comment": "Creative Tab",
+  "itemGroup.ancientrelics": "Ancient Relics",
+  
+  "_comment": "Blocks",
+  "block.ancientrelics.peridot_ore": "Peridot Ore",
+  "block.ancientrelics.ruby_ore": "Ruby Ore",
+  "block.ancientrelics.sapphire_ore": "Sapphire Ore",
+  
+  "_comment": "Items",
+  "item.ancientrelics.raw_peridot": "Raw Peridot",
+  "item.ancientrelics.raw_sapphire": "Raw Sapphire",
+  "item.ancientrelics.raw_ruby": "Raw Ruby"
+}
